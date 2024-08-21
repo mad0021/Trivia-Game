@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "In Star Wars, Luke’s home planet of Tatooine has three suns.",
+      "choices": ["True", "False"],
+      "correctAnswerIdx": 1
+    },
+    {
+      "question": "Contrary to popular belief, camel humps are made of fat, not water",
+      "choices": ["True", "False"],
+      "correctAnswerIdx": 0
+    }, 
+    {
+      "question": "George Washington is the only President of the United States to serve three terms",
+      "choices": ["True", "False"],
+      "correctAnswerIdx": 1
+    },
+    {
+      "question": "The Yankees lead professional baseball in most World Series victories",
+      "choices": ["True", "False"],
+      "correctAnswerIdx": 1
+    },
+    {
+      "question": "In which Italian city can you find the Colosseum?",
+      "choices": ["Venice", "Naples", "Rome", "Milan"],
+      "correctAnswerIdx": 2
+    },
+    {
+      "question": "What is the largest active volcano in the world?",
+      "choices": ["Mount Etna", "Mount Vesuvius", "Mouna Loa", "Mount Maunaloa"],
+      "correctAnswerIdx": 3
+    },
+    {
+      "question": "Where did the Scopes Monkey Trial happen?",
+      "choices": ["Tennessee", "Illinois", "Missouri", "Georgia"],
+      "correctAnswerIdx": 0
+    },
+    {
+      "question": "When was To Kill a Mockingbird published?",
+      "choices": ["1958", "1927", "1960", "1993"],
+      "correctAnswerIdx": 2
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "choices": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+      "correctAnswerIdx": 3
+    },
+    {
+      "question": "What is the largest ocean in the world?",
+      "choices": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correctAnswerIdx": 1
+    },
+    {
+      "question": "How many Infinity Stones are there in the Marvel Cinematic Universe?",
+      "choices": ["12", "99", "6", "9"],
+      "correctAnswerIdx": 2
+    },
+    {
+      "question": "What is Voldemort’s pet’s name?",
+      "choices": ["Hedwig", "Bloodguard", "Meowth", "Nagini"],
+      "correctAnswerIdx": 3
+    }
+  ]
+}
